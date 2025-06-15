@@ -1,2 +1,7 @@
 # Vibeverse
 I will upload quotes , statuses , motivational quotes and inspiring statuses for free
+<section id="quotes" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 p-4">
+  <img src="images/quote_3.png" alt="Quote 3" class="rounded-lg shadow-lg">
+  <img src="images/quote_4.png" alt="Quote 4" class="rounded-lg shadow-lg">
+  <img src="images/quote_5.png" alt="Quote 5" class="rounded-lg shadow-lg">
+</section>
