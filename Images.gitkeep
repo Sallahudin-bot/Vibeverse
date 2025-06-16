@@ -1,0 +1,24 @@
+your-repo/
+│
+├── index.html
+├── style.css
+└── images/
+    ├── quote3.jpg
+    ├── quote4.jpg
+    └── quote5.jpg<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quotes Gallery</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Inspirational Quotes</h1>
+    <div class="gallery">
+        <img src="images/quote3.jpg" alt="Quote 3">
+        <img src="images/quote4.jpg" alt="Quote 4">
+        <img src="images/quote5.jpg" alt="Quote 5">
+    </div>
+</body>
+</html><img src="images/your-image.jpg" alt="My Image">
